@@ -5,4 +5,4 @@
 - 💞️ If you're passionate about coding and all things tech, I want to hear from you!
 - 📫 How to reach me : baka3k@gmail.com
 
-<a href="https://github.com/baka3k"><img alt="Bak3k's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=baka3k&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="192px"/></a>
+<a href="https://github.com/baka3k"><img alt="Bak3k's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=baka3k&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=auto" height="192px"/></a>
