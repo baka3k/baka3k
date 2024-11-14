@@ -1,3 +1,4 @@
+Welcome to follow an ignorant programmer pretending to know everything
 ### Hi, I'm baka3k <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌐 &nbsp; View my [Medium](https://medium.com/@baka3k)
 - 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/quanghiep0206)
